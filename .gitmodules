@@ -1,0 +1,3 @@
+[submodule "syscall/xv6-labs-2020"]
+	path = syscall/xv6-labs-2020
+	url = https://gitee.com/lai-yongxuan/xv6-learning-warehouse.git
